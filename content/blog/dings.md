@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Ein neuer Post!"
-draft = true
 image = "/images/peter-lewicki-Wfh650C1OHU-unsplash.jpg"
 title = "Dings"
 
