@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-03-25T23:00:00Z
 description = "Ein neuer Post!"
 image = "/images/peter-lewicki-Wfh650C1OHU-unsplash.jpg"
 title = "Dings"
